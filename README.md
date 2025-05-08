@@ -1,0 +1,2 @@
+# A-MythIDE
+A MythIDE(I AM WORKING ON IT)
